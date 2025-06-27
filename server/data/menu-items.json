@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "name": "곰탕",
+    "price": 140000,
+    "image": "/api/menu-images/gomtang.jpg",
+    "category": "soup",
+    "available": true,
+    "isVisible": true
+  },
+  {
+    "id": 2,
+    "name": "순두부찌개",
+    "price": 140000,
+    "image": "/api/menu-images/soondubu.jpg",
+    "category": "soup",
+    "available": true,
+    "isVisible": true
+  },
+  {
+    "id": 3,
+    "name": "갈비탕",
+    "price": 198000,
+    "image": "/api/menu-images/galbitang.jpg",
+    "category": "soup",
+    "available": true,
+    "isVisible": true
+  },
+  {
+    "id": 4,
+    "name": "비지찌개",
+    "price": 140000,
+    "image": "/api/menu-images/biji.jpg",
+    "category": "soup",
+    "available": true,
+    "isVisible": true
+  },
+  {
+    "id": 5,
+    "name": "순어탕",
+    "price": 140000,
+    "image": "/api/menu-images/soonuh.jpg",
+    "category": "soup",
+    "available": true,
+    "isVisible": true
+  },
+  {
+    "id": 6,
+    "name": "해장국",
+    "price": 140000,
+    "image": "/api/menu-images/haejangguk.jpg",
+    "category": "soup",
+    "available": true,
+    "isVisible": true
+  },
+  {
+    "id": 7,
+    "name": "김치찌개",
+    "price": 140000,
+    "image": "/api/menu-images/kimchi.jpg",
+    "category": "soup",
+    "available": true,
+    "isVisible": true
+  },
+  {
+    "id": 8,
+    "name": "안주국",
+    "price": 140000,
+    "image": "/api/menu-images/anjuguk.jpg",
+    "category": "soup",
+    "available": true,
+    "isVisible": true
+  },
+  {
+    "id": 9,
+    "name": "콩국수",
+    "price": 140000,
+    "image": "/api/menu-images/kongguksu.jpg",
+    "category": "noodles",
+    "available": true,
+    "isVisible": true
+  },
+  {
+    "id": 10,
+    "name": "물냉면",
+    "price": 140000,
+    "image": "/api/menu-images/mulnaengmyeon.jpg",
+    "category": "noodles",
+    "available": true,
+    "isVisible": true
+  },
+  {
+    "id": 11,
+    "name": "비빔냉면",
+    "price": 140000,
+    "image": "/api/menu-images/bibimnaengmyeon.jpg",
+    "category": "noodles",
+    "available": true,
+    "isVisible": true
+  },
+  {
+    "id": 12,
+    "name": "해물라면",
+    "price": 140000,
+    "image": "/api/menu-images/haemul-ramen.jpg",
+    "category": "noodles",
+    "available": true,
+    "isVisible": true
+  },
+  {
+    "id": 13,
+    "name": "비빔밥",
+    "price": 120000,
+    "image": "/api/menu-images/bibimbap.jpg",
+    "category": "rice",
+    "available": true,
+    "isVisible": true
+  },
+  {
+    "id": 14,
+    "name": "뚝불고기",
+    "price": 190000,
+    "image": "/api/menu-images/dduk-bulgogi.jpg",
+    "category": "meat",
+    "available": true,
+    "isVisible": true
+  },
+  {
+    "id": 15,
+    "name": "제육볶음",
+    "price": 140000,
+    "image": "/api/menu-images/jeyuk.jpg",
+    "category": "meat",
+    "available": true,
+    "isVisible": true
+  },
+  {
+    "id": 16,
+    "name": "오삼불고기",
+    "price": 450000,
+    "image": "/api/menu-images/osam-bulgogi.jpg",
+    "category": "meat",
+    "available": true,
+    "isVisible": true
+  },
+  {
+    "id": 17,
+    "name": "보쌈",
+    "price": 400000,
+    "image": "/uploads/image-1750987053836-927903209.png",
+    "category": "meat",
+    "available": true,
+    "isVisible": true
+  },
+  {
+    "id": 18,
+    "name": "차돌박이",
+    "price": 1700000,
+    "image": "/api/menu-images/chadolbagi.jpg",
+    "category": "meat",
+    "available": true,
+    "isVisible": true
+  },
+  {
+    "id": 19,
+    "name": "군만두",
+    "price": 70000,
+    "image": "/uploads/image-1750987168891-193662515.png",
+    "category": "appetizer",
+    "available": true,
+    "isVisible": true
+  },
+  {
+    "id": 20,
+    "name": "감자전",
+    "price": 140000,
+    "image": "/uploads/image-1750987195514-56175627.png",
+    "category": "appetizer",
+    "available": true,
+    "isVisible": true
+  },
+  {
+    "id": 21,
+    "name": "해물파전",
+    "price": 250000,
+    "image": "/uploads/image-1750987282506-601848211.png",
+    "category": "appetizer",
+    "available": true,
+    "isVisible": true
+  },
+  {
+    "id": 22,
+    "name": "만두전골",
+    "price": 400000,
+    "image": "/uploads/image-1750987322184-106501660.png",
+    "category": "hotpot",
+    "available": true,
+    "isVisible": true
+  },
+  {
+    "id": 23,
+    "name": "두부전골",
+    "price": 300000,
+    "image": "/uploads/image-1750987331080-653738159.png",
+    "category": "hotpot",
+    "available": true,
+    "isVisible": true
+  },
+  {
+    "id": 24,
+    "name": "버섯불고기전골",
+    "price": 400000,
+    "image": "/uploads/image-1750987527047-76975587.png",
+    "category": "hotpot",
+    "available": true,
+    "isVisible": true
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "soup",
+    "displayName": "국물요리 (Soup Dishes)",
+    "isVisible": true,
+    "sortOrder": 1,
+    "createdAt": "2025-06-27T01:36:41.819Z"
+  },
+  {
+    "id": 2,
+    "name": "noodles",
+    "displayName": "면류 (Noodles)",
+    "isVisible": true,
+    "sortOrder": 2,
+    "createdAt": "2025-06-27T01:36:41.819Z"
+  },
+  {
+    "id": 3,
+    "name": "rice",
+    "displayName": "밥류 (Rice Dishes)",
+    "isVisible": true,
+    "sortOrder": 3,
+    "createdAt": "2025-06-27T01:36:41.819Z"
+  },
+  {
+    "id": 4,
+    "name": "meat",
+    "displayName": "고기요리 (Meat Dishes)",
+    "isVisible": true,
+    "sortOrder": 4,
+    "createdAt": "2025-06-27T01:36:41.819Z"
+  },
+  {
+    "id": 5,
+    "name": "appetizer",
+    "displayName": "안주/전류 (Appetizers)",
+    "isVisible": true,
+    "sortOrder": 5,
+    "createdAt": "2025-06-27T01:36:41.819Z"
+  },
+  {
+    "id": 6,
+    "name": "hotpot",
+    "displayName": "전골류 (Hot Pot)",
+    "isVisible": true,
+    "sortOrder": 6,
+    "createdAt": "2025-06-27T01:36:41.819Z"
+  }
+]
